@@ -1,3 +1,2 @@
 # FinPal
-open source - invoice management for freelancers 
--
+simple invoice manager 
